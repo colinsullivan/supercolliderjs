@@ -1,6 +1,5 @@
 *.sh
 /node_modules
-/lib
 coverage
 .node-version
 .tags1
