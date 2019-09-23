@@ -59,7 +59,8 @@
   "types": "lib/index.d.ts",
   "files": [
     "/lib",
-    "/src"
+    "/src",
+    "/bin"
   ],
   "bin": {
     "supercollider-server": "./bin/scsynth.js",
